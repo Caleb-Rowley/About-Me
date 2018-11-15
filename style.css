@@ -1,0 +1,20 @@
+p{
+    color: green;
+}
+table, td{
+    table-layout: auto;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-collapse: collapse;
+}
+a{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+table{
+    background-color: gainsboro;
+}
